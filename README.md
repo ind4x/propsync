@@ -76,4 +76,4 @@ Open `http://localhost:8080` to interact with the responsive landing page, explo
 ## Author
 
 - **Author:** Youssef Fellah ([ind4x_](https://github.com/ind4x))
-- **Institution:** Mundiapolis University, Engineering Cycle
+- **Enterprise:** Broker Immobilier (Internship)
